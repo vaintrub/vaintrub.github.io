@@ -1,0 +1,208 @@
+# Site
+repository: vaintrub/vaintrub.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: George Vaintrub
+title: Student at Moscow Engineering Physics Institute
+email: vayntrub90@mail.ru
+phone: +7 (950) 789 33 62
+website: vaintrub.github.io
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+linkedin_username: vaintrub
+github_username:  vaintrub
+facebook_username: vayntrub90
+# twitter_username: facespics
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: telegram
+  icon: fab fa-telegram
+  url: https://t.me/vaintrub
+- title: vkontakte
+  icon: fab fa-vk
+  url: https://vk.com/vayntrub90
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is George. 
+
+  **What do I hope to accomplish in the near future?**
+
+  Most of all I am attracted by the logical part of applications. Therefore, I aim to be a good *back-end developer*. In the near future I plan to dive into the study of the *Go* language, and I also want to gain experience in *C++* development.
+
+  English level: B2 Upper-Intermediate
+  I want to pass the FCE exam
+
+  Thanks to distance learning, I was able to quickly start self-education. Based on the experience of the last semester, when I combined technoatom courses and specialized classes, as well as English classes. Without prejudice to anything. I’ve proven to myself that I can manage my time wisely. 
+
+  Therefore, I am confident that <mark>I can devote 30 hours or more</mark> to the job.
+
+content:
+  - title: Technology Stack
+    layout: list
+    content:
+      - layout: left
+        sub_title: Programming languages
+        description: |
+          __<mark>Strong Knowledge Perl</mark> , Expirience with: *C/C++, Go, Python*__
+      - layout: left
+        sub_title: Tools & Technologies
+        description: |
+          __Unix/Linux, Bash & Standard Toolkit, Git, Docker, Nginx, <mark>SQL</mark>__
+      - layout: left
+        sub_title: Industry Knowledge
+        description: |
+          __<mark>TCP/IP</mark> , <mark>Algorithms and Data Structures</mark> , Web Stack__
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Telegram Bot Field Of Miracle
+        link: t.me/yakubovich_game_bot
+        link_text: Test bot
+        additional_links:
+          - title:  vaintrub/YakubovichBot
+            icon: fab fa-github
+            url: github.com/vaintrub/YakubovichBot
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is the graduation project at the courses of Technoatom mail.ru (Master Perl).
+        description: |
+          **What have I learned?**
+
+          - *Asynchronous request processing, Telegram API, how to use ORM like DBIx::Class, Object oriented system Mouse, Deploy with Docker*
+
+          **What problems did I face and solve?**
+
+          - *Creation of an optimized structure of database tables for storing information about game sessions and users*
+
+      - layout: top-middle
+        title: Web notes
+        link: web-notes.site
+        link_text: Test website
+        additional_links:
+          - title:  vaintrub/web_notes
+            icon: fab fa-github
+            url: github.com/vaintrub/web_notes
+        quote: >
+          This is educational project for sharing and saving notes
+        description: |
+          **What have I learned?**
+
+          - *Mojolicious Web framework, Working with SQLite Database, Basic skills in JavaScript HTML CSS front-end tools, REstFul, Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
+
+          **What problems did I face and solve?**
+
+          - Protection against major types of attacks, Correct user authorization
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Moscow Engineering Physics Institute
+        caption: 2019 - present
+        sub_title: Electronics & Nanoelectronics
+        quote: >
+          bla bla bla
+        description: | # this will include new lines to allow paragraphs
+          During my time at Mephi, I learned many of my core skills.  I learned how to work in a team, because at university you need to learn from each other.  I've learned to work on tight deadlines.  I have learned a lot about a healthy work-life balance.  
+
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Master Perl
+        sub_title: Technoatom Mail.ru Group
+        caption: September 2020 - January 2021
+        link: https://cloud.mail.ru/public/CQEC/zRU3gAsz1
+        link_text: View Certificate
+        additional_links:
+          - title:  vaintrub/technoatom_perl
+            icon: fab fa-github
+            url: github.com/vaintrub/technoatom_perl
+
+        description: | # this will include new lines to allow paragraphs
+          **Acquired skills**
+          - Knowledge of Perl
+          - Reading and quick analysis of documentation
+          - Understanding client-server communication 
+          
+      - layout: left
+        title: Correspondence Physics and Technology School
+        sub_title: Moscow Institute of Physics and Technology
+        link: https://cloud.mail.ru/public/E93K/RR8DpzRvA
+        link_text: View Certificate
+        description: |
+          **Acquired skills**
+          - Knowledge of C++
+          - Algorithm and data structures
+      - layout: left
+        title: Coursera Python 3 Programming
+        sub_title: University Of Michigan
+        link: https://www.coursera.org/account/accomplishments/certificate/B4GYBPX2NPR2
+        link_text: View Certificate Python Classes and Inheritance
+        #additional_links:
+        #- title:  Certificate Python Classes and Inheritance
+        #  icon: fas fa-certificate
+        #  url: github.com/vaintrub/web_notes
+        description: |
+          **Acquired skills**
+          - Basic knowledge of Python
+
+    
+  - title: A Little More About Me
+    layout: text
+    content: | 
+      bla bla bla bla 
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+
+
+
