@@ -101,7 +101,7 @@ content:
 
           - *Asynchronous request processing, Telegram API, ORM like DBIx::Class, Object oriented system Mouse, Deploy with Docker*
 
-          **What problems did I face and solve?**
+          **What challenges have I face and solved?**
 
           - *Creation of an optimized structure of database tables for storing information about game sessions and users*
 
@@ -120,7 +120,7 @@ content:
 
           - *Mojolicious Web framework, SQLite Database, Basic skills in JavaScript HTML CSS front-end tools, REST API, Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
 
-          **What problems did I face and solve?**
+          **What challenges have I face and solved?**
 
           - Protection against major types of attacks, Correct user authorization
 
