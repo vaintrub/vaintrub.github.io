@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: George Vaintrub
-title: Student at Moscow Engineering Physics Institute
+title: Software Engineer 
 email: vayntrub90@mail.ru
 phone: +7 (950) 789 33 62
 website: vaintrub.github.io
@@ -55,6 +55,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
+  I am studying at Moscow Engineering Physics Institute
   **What do I hope to accomplish in the nearest future?**
 
   Most of all I am interested in studying highload solutions, their optimization and development. I am planning to dive into the study of the *Lua* language, and I also want to gain experience in *C/C++* development.
@@ -153,7 +154,7 @@ content:
           **Acquired skills:**
           - Knowledge of Perl
           - Reading and quick analysis of documentation
-          - Understanding client-server communication 
+          - Understanding Client-Server communication 
           
       - layout: left
         title: Correspondence Physics and Technology School
