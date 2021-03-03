@@ -150,7 +150,7 @@ content:
             url: github.com/vaintrub/technoatom_perl
 
         description: | # this will include new lines to allow paragraphs
-          **Acquired skills**
+          **Acquired skills:**
           - Knowledge of Perl
           - Reading and quick analysis of documentation
           - Understanding client-server communication 
@@ -161,7 +161,7 @@ content:
         link: https://cloud.mail.ru/public/E93K/RR8DpzRvA
         link_text: View Certificate
         description: |
-          **Acquired skills**
+          **Acquired skills:**
           - Knowledge of C++
           - Algorithm and data structures
       - layout: left
@@ -174,7 +174,7 @@ content:
         #  icon: fas fa-certificate
         #  url: github.com/vaintrub/web_notes
         description: |
-          **Acquired skills**
+          **Acquired skills:**
           - Basic knowledge of Python
 
     
