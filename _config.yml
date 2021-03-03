@@ -100,12 +100,12 @@ content:
           The graduation project at the courses of Technoatom mail.ru (Master Perl).
         description: |
           **Technologies:**
-          - *Perl, Telegram API, SQLite, Docker*
+          - *Perl, Telegram API, SQLite, Docker.*
 
           **Selected accomplishments:**
 
           - ***I have learned:** Asynchronous request processing with AnyEvent and Coro, ORM - DBIx::Class, OO system Mouse.* 
-          - *Creation of an optimized structure of database tables for storing information about game sessions and users*
+          - *Creation of an optimized structure of database tables for storing information about game sessions and users.*
 
       - layout: top-middle
         title: Web notes
@@ -119,12 +119,12 @@ content:
           An educational project for sharing and saving notes
         description: |
           **Technologies:**
-          - *Perl, Mojolicious Web Framework, SQLite, JS/HTML/CSS, Nginx, Docker*
+          - *Perl, Mojolicious Web Framework, SQLite, JS/HTML/CSS, Nginx, Docker.*
 
           **Selected accomplishments:**
 
-          - ***I have learned:** Front-End tools, User authorization, The main types of attacks*
-          - *Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
+          - ***I have learned:** Front-End tools, User authorization, The main types of attacks.*
+          - *Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate.*
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
