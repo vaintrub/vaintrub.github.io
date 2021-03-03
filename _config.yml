@@ -55,18 +55,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is George. 
-
   **What do I hope to accomplish in the near future?**
 
-  Most of all I am attracted by the logical part of applications. Therefore, I aim to be a good *back-end developer*. In the near future I plan to dive into the study of the *Go* language, and I also want to gain experience in *C++* development.
+  Most of all I am attracted by the study of highload solutions, their optimization or development. In the near future I plan to dive into the study of the *Lua* language, and I also want to gain experience in *C/C++* development.
 
-  English level: B2 Upper-Intermediate
-  I want to pass the FCE exam
+  **English level:** B2 Upper-Intermediate
 
-  Thanks to distance learning, I was able to quickly start self-education. Based on the experience of the last semester, when I combined technoatom courses and specialized classes, as well as English classes. Without prejudice to anything. I’ve proven to myself that I can manage my time wisely. 
+  My goal is to successfully pass the FCE exam
 
-  Therefore, I am confident that <mark>I can devote 30 hours or more</mark> to the job.
+  I can devote <mark>30</mark> hours a week to the job.
 
 content:
   - title: Technology Stack
@@ -75,7 +72,7 @@ content:
       - layout: left
         sub_title: Programming languages
         description: |
-          __<mark>Strong Knowledge Perl</mark> , Expirience with: *C/C++, Go, Python*__
+          __<mark>Strong Knowledge Perl</mark> , C/C++, Expirience with: *Go, Python*__
       - layout: left
         sub_title: Tools & Technologies
         description: |
@@ -135,12 +132,11 @@ content:
       - layout: left
         title: Moscow Engineering Physics Institute
         caption: 2019 - present
-        sub_title: Electronics & Nanoelectronics
+        sub_title: Software Engineering
         quote: >
-          bla bla bla
+          Institute Of Cyber Intelligence Systems
         description: | # this will include new lines to allow paragraphs
-          During my time at Mephi, I learned many of my core skills.  I learned how to work in a team, because at university you need to learn from each other.  I've learned to work on tight deadlines.  I have learned a lot about a healthy work-life balance.  
-
+          During my time at Mephi, I've learned to manage my time wisely. Based on the experience of the last semester, when I combined technoatom courses and specialized classes, as well as English classes without prejudice to anything. It should be noted that distance learning taught self-education more strongly.
   - title: Certifications
     layout: list
     content:
@@ -184,11 +180,6 @@ content:
           - Basic knowledge of Python
 
     
-  - title: A Little More About Me
-    layout: text
-    content: | 
-      bla bla bla bla 
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
