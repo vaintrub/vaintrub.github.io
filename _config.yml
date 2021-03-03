@@ -100,14 +100,11 @@ content:
           The graduation project at the courses of Technoatom mail.ru (Master Perl).
         description: |
           **Technologies:**
-          - *Perl, Mojolicious Web Framework, SQLite, JS/HTML/CSS, Nginx, Docker*
-
-          **What have I learned?**
-
-          - *Asynchronous request processing, Telegram API, ORM like DBIx::Class, Object oriented system Mouse, Deploy with Docker*
+          - *Perl, Telegram API, SQLite, Docker*
 
           **Selected accomplishments:**
 
+          - *I have learned: Asynchronous request processing with AnyEvent, ORM - DBIx::Class, OO system Mouse. 
           - *Creation of an optimized structure of database tables for storing information about game sessions and users*
 
       - layout: top-middle
@@ -124,13 +121,10 @@ content:
           **Technologies:**
           - *Perl, Mojolicious Web Framework, SQLite, JS/HTML/CSS, Nginx, Docker*
 
-          **What have I learned?**
-
-          - *Mojolicious Web framework, SQLite Database, Basic skills in JavaScript HTML CSS front-end tools, REST API, Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
-
           **Selected accomplishments:**
 
-          - Protection against major types of attacks, Correct user authorization
+          - *I have learned: Front-End tools, User authorization, The main types of attacks*
+          - *Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
