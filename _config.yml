@@ -101,7 +101,7 @@ content:
         description: |
           **What have I learned?**
 
-          - *Asynchronous request processing, Telegram API, how to use ORM like DBIx::Class, Object oriented system Mouse, Deploy with Docker*
+          - *Asynchronous request processing, Telegram API, ORM like DBIx::Class, Object oriented system Mouse, Deploy with Docker*
 
           **What problems did I face and solve?**
 
@@ -120,7 +120,7 @@ content:
         description: |
           **What have I learned?**
 
-          - *Mojolicious Web framework, Working with SQLite Database, Basic skills in JavaScript HTML CSS front-end tools, REstFul, Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
+          - *Mojolicious Web framework, SQLite Database, Basic skills in JavaScript HTML CSS front-end tools, REST API, Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
 
           **What problems did I face and solve?**
 
