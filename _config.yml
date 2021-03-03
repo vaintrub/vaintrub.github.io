@@ -56,6 +56,7 @@ additional_links:
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I am studying at Moscow Engineering Physics Institute
+
   **What do I hope to accomplish in the nearest future?**
 
   Most of all I am interested in studying highload solutions, their optimization and development. I am planning to dive into the study of the *Lua* language, and I also want to gain experience in *C/C++* development.
@@ -98,11 +99,14 @@ content:
         quote: >
           The graduation project at the courses of Technoatom mail.ru (Master Perl).
         description: |
+          **Technologies:**
+          - *Perl, Mojolicious Web Framework, SQLite, JS/HTML/CSS, Nginx, Docker*
+
           **What have I learned?**
 
           - *Asynchronous request processing, Telegram API, ORM like DBIx::Class, Object oriented system Mouse, Deploy with Docker*
 
-          **My accomplishments:**
+          **Selected accomplishments:**
 
           - *Creation of an optimized structure of database tables for storing information about game sessions and users*
 
@@ -117,11 +121,14 @@ content:
         quote: >
           An educational project for sharing and saving notes
         description: |
+          **Technologies:**
+          - *Perl, Mojolicious Web Framework, SQLite, JS/HTML/CSS, Nginx, Docker*
+
           **What have I learned?**
 
           - *Mojolicious Web framework, SQLite Database, Basic skills in JavaScript HTML CSS front-end tools, REST API, Deploy Nginx as reverse proxy and Let's Encrypt to get ssl certificate*
 
-          **My accomplishments:**
+          **Selected accomplishments:**
 
           - Protection against major types of attacks, Correct user authorization
 
