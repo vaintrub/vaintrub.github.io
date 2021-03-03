@@ -63,7 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   **English level:** <mark>B2 Upper-Intermediate.</mark> My goal is to successfully pass the FCE exam
 
-  I can devote <mark>30</mark> hours a week to a job.
+  I can devote <mark>30 hours</mark> a week to a job.
 
 content:
   - title: Technology Stack
@@ -168,7 +168,7 @@ content:
         description: |
           **Acquired skills:**
           - Knowledge of C++
-          - Algorithm and data structures
+          - Algorithms and data structures
       - layout: left
         title: Coursera Python 3 Programming
         sub_title: University Of Michigan
