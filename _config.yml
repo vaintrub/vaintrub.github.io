@@ -105,6 +105,7 @@ content:
           **Selected accomplishments:**
 
           - ***I have learned:** Asynchronous request processing with AnyEvent and Coro, ORM - DBIx::Class, OO system Mouse.* 
+          - *Writing documentation (README files)* 
           - *Creation of an optimized structure of database tables for storing information about game sessions and users.*
 
       - layout: top-middle
@@ -154,8 +155,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Acquired skills:**
           - Knowledge of Perl
-          - Reading and quick analysis of documentation
+          - System Programming
           - Understanding Client-Server communication 
+          - Unix IPC
+          - Reading and quick analysis of documentation
           
       - layout: left
         title: Correspondence Physics and Technology School
