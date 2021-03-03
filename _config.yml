@@ -95,7 +95,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is the graduation project at the courses of Technoatom mail.ru (Master Perl).
+          The graduation project at the courses of Technoatom mail.ru (Master Perl).
         description: |
           **What have I learned?**
 
@@ -114,7 +114,7 @@ content:
             icon: fab fa-github
             url: github.com/vaintrub/web_notes
         quote: >
-          This is an educational project for sharing and saving notes
+          An educational project for sharing and saving notes
         description: |
           **What have I learned?**
 
