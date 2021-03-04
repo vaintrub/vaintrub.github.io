@@ -76,7 +76,7 @@ content:
       - layout: left
         sub_title: Tools & Technologies
         description: |
-          __Unix/Linux, Bash & Standard Toolkit, Git, Docker, Nginx, <mark>SQL</mark>, Mojolicious Web Framework__
+          __Unix/Linux, Bash & Standard Toolkit, Git, Docker, Nginx, <mark>SQL</mark> , Mojolicious Web Framework__
       - layout: left
         sub_title: Industry Knowledge
         description: |
