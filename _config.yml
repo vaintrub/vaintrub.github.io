@@ -55,15 +55,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I am studying at Moscow Engineering Physics Institute.
+  My name is George. I am a 2nd year student at the Moscow Engineering Physics Institute.
 
   **What do I hope to accomplish in the nearest future?**
 
-  Most of all I am interested in studying highload solutions, their optimization and development. I am planning to dive into the study of the *Lua* language, and I also want to gain experience in *C/C++* development.
+  I love to participate in non-standard and unique projects. Most of all I am interested in studying highload solutions, their optimization and development. I am planning to dive into the study of the *Lua* language, and I also want to gain experience in *C/C++* development.
 
   **English level:** <mark>B2 Upper-Intermediate.</mark> My goal is to successfully pass the FCE exam
 
-  I can devote <mark>30 hours</mark> a week to a job.
+  Despite my course, I am confident that I can devote <mark>30 hours</mark> a week to a job.
 
 content:
   - title: Technology Stack
