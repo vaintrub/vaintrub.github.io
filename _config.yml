@@ -182,9 +182,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+     I recently took a *Technoatom course at Mail.ru Group*, which motivated me a lot. I believe that one of the important skills that helped me successfully complete this course is the *ability to work on mistakes* and try to get the most out of them. I know how to take *personal responsibility* for my tasks, so I never leave anything incomplete.
     
 # Footer
 footer_show_references: true
