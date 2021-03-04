@@ -88,7 +88,7 @@ content:
       - layout: top-middle
         title: Telegram Bot Field Of Miracle
         link: t.me/yakubovich_game_bot
-        link_text: Test bot
+        link_text: Click to test bot
         additional_links:
           - title:  vaintrub/YakubovichBot
             icon: fab fa-github
@@ -111,7 +111,7 @@ content:
       - layout: top-middle
         title: Web notes
         link: web-notes.site
-        link_text: Test website
+        link_text: Click to test website
         additional_links:
           - title:  vaintrub/web_notes
             icon: fab fa-github
