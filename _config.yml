@@ -182,7 +182,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-     I recently took a *Technoatom course at Mail.ru Group*, which motivated me a lot. I believe that one of the important skills that helped me successfully complete this course is the *ability to work on mistakes* and try to get the most out of them. I know how to take *personal responsibility* for my tasks, so I never leave anything incomplete.
+      I recently took a *Technoatom course at Mail.ru Group*, which motivated me a lot. I believe that these skills helped me successfully complete this course:
+        - It is the *ability to work on mistakes* and try to get the most out of them. 
+        - I know how to take *personal responsibility* for my tasks, so I never leave anything incomplete.
     
 # Footer
 footer_show_references: true
