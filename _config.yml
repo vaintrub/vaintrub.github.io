@@ -144,7 +144,7 @@ content:
         sub_title: Technoatom Mail.ru Group
         caption: September 2020 - January 2021
         link: https://cloud.mail.ru/public/CQEC/zRU3gAsz1
-        link_text: View Certificate
+        link_text: Click to view Certificate
         additional_links:
           - title:  vaintrub/technoatom_perl
             icon: fab fa-github
@@ -162,7 +162,7 @@ content:
         title: Correspondence Physics and Technology School
         sub_title: Moscow Institute of Physics and Technology
         link: https://cloud.mail.ru/public/E93K/RR8DpzRvA
-        link_text: View Certificate
+        link_text: Click to view Certificate
         description: |
           **Acquired skills:**
           - Knowledge of C++
@@ -171,7 +171,7 @@ content:
         title: Coursera Python 3 Programming
         sub_title: University Of Michigan
         link: https://www.coursera.org/account/accomplishments/certificate/B4GYBPX2NPR2
-        link_text: View Certificate Python Classes and Inheritance
+        link_text: Click to view Certificate Python Classes and Inheritance
         #additional_links:
         #- title:  Certificate Python Classes and Inheritance
         #  icon: fas fa-certificate
